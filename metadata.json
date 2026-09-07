@@ -1,0 +1,6 @@
+{
+  "name": "OBD Monitor",
+  "description": "Monitorización en tiempo real de telemetría OBD-II / ELM327 Bluetooth, cuadro de instrumentos digital, diagnóstico DTC y registro de viajes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
